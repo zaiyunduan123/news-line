@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">新闻快递</string>
+    <string name="splash_name">欢迎进入新闻快递</string>
+    <string name="start_main">开始体验</string>
+</resources>
