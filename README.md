@@ -5,5 +5,4 @@
 - Json解析用两种方式，手动解析和Gson第三方解析
 
 -----
-![image](https://github.com/zaiyunduan123/NewsLine/blob/master/images/image1.png)
-![image](https://github.com/zaiyunduan123/NewsLine/blob/master/images/image2.png)
+<a href="https://github.com/zaiyunduan123/NewsLine/blob/master/images/image1.png"><img src="https://github.com/zaiyunduan123/NewsLine/blob/master/images/image1.png" width="40%"/></a>         <a href="https://github.com/zaiyunduan123/NewsLine/blob/master/images/image2.png"><img src="https://github.com/zaiyunduan123/NewsLine/blob/master/images/image2.png" width="40%"/></a> 
