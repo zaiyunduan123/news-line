@@ -1,4 +1,4 @@
-# 新闻类Android应用常见UI模板
+# 新闻类Android应用常用模板（开箱即用）
 - 使用SildingMenu实现左侧滑菜单
 - 使用ViewPagerIndicator实现ViewPager页签指示器
 - 使用xUtils3网络请求
